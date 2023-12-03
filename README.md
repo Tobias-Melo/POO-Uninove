@@ -6,13 +6,13 @@ As mensagens podem ter formatos distintos: texto, vídeo, fotos, arquivos.
 <br><br>
 Crie uma estrutura de código com orientação a objetos que possa enviar mensagem no formato correto para o canal selecionado.
 <br><br>
-Canais:
-WhatsApp/Telegram - Número de telefone
+Canais:<br>
+WhatsApp/Telegram - Número de telefone<br>
 Facebook/Instagram/Telegram - Usuário
 <br>
 <br>
-Mensagens:
-Texto: Mensagem, Data Envio
-Vídeo: Mensagem, arquivo, formato, duração
-Foto: Mensagem, arquivo, formato
-Arquivo: Mensagem, arquivo, formato
+Mensagens:<br>
+Texto: Mensagem, Data Envio<br>
+Vídeo: Mensagem, arquivo, formato, duração<br>
+Foto: Mensagem, arquivo, formato<br>
+Arquivo: Mensagem, arquivo, formato<br>
