@@ -16,3 +16,7 @@ Texto: Mensagem, Data Envio<br>
 Vídeo: Mensagem, arquivo, formato, duração<br>
 Foto: Mensagem, arquivo, formato<br>
 Arquivo: Mensagem, arquivo, formato<br>
+
+Execução do código com um exemplo:
+
+![image](https://github.com/Tobias-Melo/POO-Uninove/assets/100003968/6d65eed5-a7c3-49bd-a018-26ce65df88e8)
